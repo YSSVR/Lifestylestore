@@ -18,7 +18,7 @@ we link this header.php file to all other webpages using 'include' command
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>                        
             </button>
-            <a class="navbar-brand" href="index.html">Lifestyle Store</a>
+            <a class="navbar-brand" href="index.php">Lifestyle Store</a>
         </div>
         <div class="collapse navbar-collapse" id="myNavbar">
             <ul class="nav navbar-nav navbar-right">
